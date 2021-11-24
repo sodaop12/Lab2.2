@@ -64,7 +64,7 @@ Content Cell | Content Cell
 
 
 `code()`
-        Markup : `code()`
+          Markup : `code()`
 
 ```javascript
 
@@ -107,14 +107,14 @@ Content Cell | Content Cell
 
 Foldable text:
 
-<detail>
+<details>
    <summary>Title 1</summary>
    <p>Content 1 Content 1 Content 1 Content 1</p>
-</detail>
-<detail>
+</details>
+<details>
   <summary>Title 2</summary>
   <p>Content 2 Content 2 Content 2 Content 2</p>
-</detail>
+</details>
 
 ```html
 <h3>HTML</h3>
